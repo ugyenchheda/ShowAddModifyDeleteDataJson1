@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowAddModifyDeleteDataJson", "ShowAddModifyDeleteDataJson\ShowAddModifyDeleteDataJson.csproj", "{4D286675-B0ED-4AD2-AE87-75035D2EE018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D286675-B0ED-4AD2-AE87-75035D2EE018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D286675-B0ED-4AD2-AE87-75035D2EE018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D286675-B0ED-4AD2-AE87-75035D2EE018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D286675-B0ED-4AD2-AE87-75035D2EE018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F253814-8432-456D-9EA1-743778EC6A8D}
+	EndGlobalSection
+EndGlobal
